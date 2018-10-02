@@ -49,7 +49,7 @@
   top: 50%;
   margin-left: -168px;
   margin-top: -168px;
-  background-image: url(wink-inv.png);
+  background-image: url('wink-inv.png');
   background-size: 100%;
 }
 
@@ -103,7 +103,7 @@
 }
 .social-link-item {
   display: inline-block;
-  background-image: url(icons-sprite.png);
+  background-image: url('icons.png');
   height: 20px;
   background-size: 123px 20px;
   text-indent: -9999px;
