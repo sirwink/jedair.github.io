@@ -49,19 +49,8 @@
   top: 50%;
   margin-left: -168px;
   margin-top: -168px;
-  background-image: url(circle-red.png);
+  background-image: url(wink-inv.png);
   background-size: 100%;
-}
-.triangle-pattern {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-image: url('25409724.png');
-  background-size: cover;
-  background-position: center;
-  opacity: .03;
 }
 
 /* Type
@@ -145,23 +134,11 @@
   margin-left: 0;
   width: 21px;
 }
-.social-link-item-linkedin {
-  background-position: -21px 0;
-  width: 19px;
-}
 .social-link-item-github {
   background-position: -40px 0;
   width: 18px;
 }
-.social-link-item-dribbble {
-  background-position: -58px 0;
-  width: 21px;
-}
-.social-link-item-behance {
-  background-position: -78px 0;
-  width: 26px;
-}
-.social-link-item-medium {
+.social-link-item-instagram {
   background-position: -105px 0;
   width: 18px;
 }
