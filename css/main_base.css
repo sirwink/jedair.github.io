@@ -6,7 +6,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-/*  background-image: url('http://www.jedair.com/rome_forum.jpg'); */
+  /*  background-image: url('http://www.jedair.com/rome_forum.jpg'); */
   background-color: #000;
   background-size: cover;
   background-position: center;
@@ -104,9 +104,9 @@
 }
 .social-link-item {
   display: inline-block;
-  background-image: url('http://www.jedair.com/winklinks_sprite.png');
-  height: 40px;
-  background-size: 185px 40px;
+  background-image: url('http://www.jedair.com/icons.png');
+  height: 20px;
+  background-size: 123px 20px;
   text-indent: -9999px;
   margin-left: 15px;
   opacity: .4;
@@ -131,22 +131,19 @@
 .social-link-item:hover{
   opacity: 1;
 }
-.social-link-item-instagram {
-  margin-left: 0;
-  width: 47px;
-}
-.social-link-item-snapchat {
-  background-position: -46px 0;
-  width: 47px;
-}
 .social-link-item-twitter {
-  background-position: -92px 0;
-  width: 47px;
+  margin-left: 0;
+  width: 21px;
 }
 .social-link-item-github {
-  background-position: -140px 0;
-  width: 47px;
+  background-position: -40px 0;
+  width: 18px;
 }
+.social-link-item-instagram {
+  background-position: -105px 0;
+  width: 18px;
+}
+
 @media (max-width: 600px) {
   .name {
     font-size: 30px;
